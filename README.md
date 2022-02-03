@@ -32,8 +32,8 @@ TBD from [WAKA]('waka-readme-stats')
 
 <p>
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=firebotQL&show_icons=true&hide_border=true&&count_private=true&theme=chartreuse-dark" />-->
-  <img height="200em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firebotQL&exclude_repo=BookSharing&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=highcontrast&hide=html"/>
-  <img height="200em" width="465em" src="https://github-readme-streak-stats.herokuapp.com/?user=firebotQL&theme=highcontrast&border=black" />
+  <img height="200em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firebotQL&exclude_repo=BookSharing&show_icons=true&layout=compact&langs_count=8&theme=highcontrast&hide=html&bg_color=00000000&border_color=000000"/>
+  <img height="200em" width="465em" src="https://github-readme-streak-stats.herokuapp.com/?user=firebotQL&theme=highcontrast&background=00000000&border=000000" />
 </p>
 
 
