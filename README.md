@@ -24,8 +24,7 @@ Constantly self-developing/keeping up to date and helping others todo so. Feel f
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-TBD from [WAKA]('waka-readme-stats')
-
+TBD/Provided by [WAKA](https://github.com/anmol098/waka-readme-stats "Waka Readme Stats")
 
 
 📈 **My GitHub Stats:**
