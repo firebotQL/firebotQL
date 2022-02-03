@@ -14,7 +14,7 @@ I am a full-stack software engineer, gamer and pet owner. I love programming, co
 
 Constantly self-developing/keeping up to date and helping others todo so. Feel free to reach me out!
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🚀🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;
