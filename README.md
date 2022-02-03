@@ -1,5 +1,5 @@
 ### 
-Hi there, I'm <a href="https://github.com/firebotQL" target="_blank">firebotQL</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. You can find out more about me through the desciption below:
+Hi there, I'm <a href="https://github.com/firebotQL" target="_blank">firebotQL</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. You can find out more about me by exploring below:
 
 ![](https://komarev.com/ghpvc/?username=firebotQL&color=brightgreen)
 
