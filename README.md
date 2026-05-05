@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F702,100:003300&height=220&section=header&text=firebotQL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Pod%20Lead%20%C2%B7%20Full-Stack%20Engineer&descSize=20&descAlignY=58&descAlign=50)
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F702&center=true&vCenter=true&width=600&lines=Full-stack+engineer;Gamer+%26+pet+owner;Always+leveling+up" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F702&center=true&vCenter=true&width=600&lines=Gamer+%26+pet+owner;Always+leveling+up" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -35,14 +35,6 @@ Full-stack engineer + pod lead with 15+ years of experience — from C++ and Jav
   <a href="https://perplexity.ai"><img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" /></a>
   <a href="https://v0.dev"><img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white" alt="v0" /></a>
   <a href="https://windsurf.com"><img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=06B6D4" alt="Windsurf" /></a>
-</p>
-
-🏆 **Trophies:**
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=firebotQL&theme=matrix&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
 </p>
 
 📈 **My GitHub Stats:**
