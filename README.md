@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F702,100:003300&height=220&section=header&text=firebotQL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Pod%20Lead%20%C2%B7%20Full-Stack%20Engineer&descSize=20&descAlignY=58&descAlign=50)
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F702&center=true&vCenter=true&width=700&lines=Architect+%26+mentor+at+heart;Speak+EN+%C2%B7+RU+%C2%B7+LT;Open+to+new+collaborations" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=00F702&center=true&vCenter=true&width=700&lines=Architect+%26+mentor+at+heart;Builder+of+resilient+systems;Open+to+new+collaborations" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
