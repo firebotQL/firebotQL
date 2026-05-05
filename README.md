@@ -19,7 +19,7 @@ Full-stack engineer + pod lead with 15+ years of experience — from C++ and Jav
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,graphql,aws,java,python,swift,docker,postgres,git&theme=dark&perline=12" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,graphql,aws,java,python,swift,cpp,docker,postgres,git&theme=dark&perline=13" alt="Tech stack" />
   </a>
 </p>
 
