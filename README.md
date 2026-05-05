@@ -12,7 +12,7 @@
 
 Full-stack engineer + pod lead with 15+ years of experience — from C++ and Java to scalable cloud platforms on Node.js, React, GraphQL and AWS. FinTech by day, side-projects by night. Gamer, pet owner, perpetual learner — happy to help others level up too.
 
-- 🍎 Currently building [Cull](https://getcull.com) — UPF + NOVA scanner for healthier food choices
+- 🍎 Currently building [Cull](https://getcull.app) — UPF + NOVA scanner for healthier food choices
 - 💬 Ask me about anything — always happy to help
 
 🛠️ **Tech I work with:**
