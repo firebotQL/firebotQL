@@ -37,6 +37,6 @@ Full-stack engineer + pod lead with 15+ years of experience — from C++ and Jav
 📈 **My GitHub Stats:**
 
 <p align="center">
-  <img height="200em" width="340em" src="https://fb-stats-extended.vercel.app/api/top-langs/?username=firebotQL&show_icons=true&layout=compact&langs_count=8&theme=chartreuse-dark&hide=html&bg_color=00000080&border_color=c9d1d9" alt="Top languages" />
-  <img height="200em" width="465em" src="https://fb-streak-stats.vercel.app/?user=firebotQL&theme=highcontrast&background=00000080&border=c9d1d9" alt="Streak stats" />
+  <img src="https://fb-stats-extended.vercel.app/api/top-langs/?username=firebotQL&show_icons=true&layout=compact&langs_count=8&card_width=340&theme=chartreuse-dark&hide=html&bg_color=00000080&border_color=c9d1d9" alt="Top languages" />
+  <img src="https://fb-streak-stats.vercel.app/?user=firebotQL&theme=highcontrast&card_width=465&card_height=190&background=00000080&border=c9d1d9" alt="Streak stats" />
 </p>
