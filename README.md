@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F702,100:003300&height=220&section=header&text=firebotQL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Pod%20Lead%20%C2%B7%20Full-Stack%20Engineer&descSize=20&descAlignY=58&descAlign=50)
+![Viaceslavas Duk (firebotQL): Pod Lead and Full-Stack Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:00F702,100:003300&height=220&section=header&text=firebotQL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Pod%20Lead%20%C2%B7%20Full-Stack%20Engineer&descSize=20&descAlignY=58&descAlign=50)
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=00F702&center=true&vCenter=true&width=700&lines=Architect+%26+mentor+at+heart;Builder+of+resilient+systems;Open+to+new+collaborations" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5000&pause=1500&color=00F702&center=true&vCenter=true&width=700&lines=Architect+%26+mentor+at+heart;Builder+of+resilient+systems;Open+to+new+collaborations" alt="Architect and mentor at heart. Builder of resilient systems. Open to new collaborations." /></a>
 </p>
 
 <p align="center">
@@ -8,16 +8,16 @@
   <a href="https://www.linkedin.com/in/viaceslavasduk"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-Full-stack engineer + pod lead with 15+ years of experience — from C++ and Java to scalable cloud platforms on Node.js, React, GraphQL and AWS. FinTech by day, side-projects by night. Gamer, pet owner, perpetual learner — happy to help others level up too.
+Full-stack engineer and pod lead with 15+ years of experience, from C++ and Java to scalable cloud platforms on Node.js, React, GraphQL and AWS. FinTech by day, side projects by night. Gamer, pet owner and perpetual learner, always happy to help others level up.
 
-- 🍎 Currently building [Cull](https://getcull.app) — UPF + NOVA scanner for healthier food choices
+- 🍎 Currently building [Cull](https://getcull.app), a UPF and NOVA food scanner for healthier choices
 - 💬 Ask me about scaling Node/GraphQL platforms on AWS, leading engineering pods, or shipping AI-assisted side projects
 
 🛠️ **Tech I work with:**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,graphql,aws,java,python,swift,cpp,docker,postgres,git&theme=dark&perline=13" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,graphql,aws,java,python,swift,cpp,docker,postgres,git&theme=dark&perline=13" alt="TypeScript, JavaScript, React, Node.js, GraphQL, AWS, Java, Python, Swift, C++, Docker, PostgreSQL, Git" />
   </a>
 </p>
 
