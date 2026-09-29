@@ -8,6 +8,8 @@
   <a href="https://www.linkedin.com/in/viaceslavasduk"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+### Hi, I'm Viaceslavas 👋
+
 Full-stack engineer and pod lead with 15+ years of experience, from C++ and Java to scalable cloud platforms on Node.js, React, GraphQL and AWS. FinTech by day, side projects by night. Gamer, pet owner and perpetual learner, always happy to help others level up.
 
 - 🍎 Currently building [Cull](https://getcull.app), a UPF and NOVA food scanner for healthier choices
