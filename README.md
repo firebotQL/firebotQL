@@ -40,9 +40,3 @@ Full-stack engineer + pod lead with 15+ years of experience — from C++ and Jav
   <img height="200em" width="340em" src="https://fb-github-readme-stats.vercel.app/api/top-langs/?username=firebotQL&show_icons=true&layout=compact&langs_count=8&theme=chartreuse-dark&hide=html&bg_color=00000080&border_color=c9d1d9" alt="Top languages" />
   <img height="200em" width="465em" src="https://fb-streak-stats.vercel.app/?user=firebotQL&theme=highcontrast&background=00000080&border=c9d1d9" alt="Streak stats" />
 </p>
-
-📊 **Contribution Activity:**
-
-<p align="center">
-  <img src="https://fb-activity-graph.vercel.app/graph?username=firebotQL&bg_color=00000080&color=00F702&line=00F702&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity graph" />
-</p>
