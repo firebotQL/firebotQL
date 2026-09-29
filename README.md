@@ -6,14 +6,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firebotQL&color=brightgreen&style=flat-square" alt="Profile views" />
   <a href="https://www.linkedin.com/in/viaceslavasduk"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- <a href="https://twitter.com/firebotQL"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" /></a> -->
-  <!-- <a href="https://instagram.com/fire_bot/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a> -->
 </p>
 
 Full-stack engineer + pod lead with 15+ years of experience — from C++ and Java to scalable cloud platforms on Node.js, React, GraphQL and AWS. FinTech by day, side-projects by night. Gamer, pet owner, perpetual learner — happy to help others level up too.
 
 - 🍎 Currently building [Cull](https://getcull.app) — UPF + NOVA scanner for healthier food choices
-- 💬 Ask me about anything — always happy to help
+- 💬 Ask me about scaling Node/GraphQL platforms on AWS, leading engineering pods, or shipping AI-assisted side projects
 
 🛠️ **Tech I work with:**
 
@@ -31,7 +29,6 @@ Full-stack engineer + pod lead with 15+ years of experience — from C++ and Jav
   <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /></a>
   <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" /></a>
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" /></a>
-  <a href="https://midjourney.com"><img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=white" alt="Midjourney" /></a>
   <a href="https://perplexity.ai"><img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" /></a>
   <a href="https://v0.dev"><img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white" alt="v0" /></a>
   <a href="https://windsurf.com"><img src="https://img.shields.io/badge/Windsurf-000000?style=for-the-badge&logo=windsurf&logoColor=06B6D4" alt="Windsurf" /></a>
@@ -44,7 +41,7 @@ Full-stack engineer + pod lead with 15+ years of experience — from C++ and Jav
   <img height="200em" width="465em" src="https://fb-streak-stats.vercel.app/?user=firebotQL&theme=highcontrast&background=00000080&border=c9d1d9" alt="Streak stats" />
 </p>
 
-📉 **Contribution Activity:**
+📊 **Contribution Activity:**
 
 <p align="center">
   <img src="https://fb-activity-graph.vercel.app/graph?username=firebotQL&bg_color=00000080&color=00F702&line=00F702&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity graph" />
